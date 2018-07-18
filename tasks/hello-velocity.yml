@@ -1,0 +1,8 @@
+description: "Hello Velocity"
+name: hello-velocity
+
+steps:
+  - type: run
+    description: Hello Docker
+    image: hello-world:latest
+

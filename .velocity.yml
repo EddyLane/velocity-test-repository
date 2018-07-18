@@ -1,0 +1,3 @@
+project:
+  logo: image.png
+  tasksPath: ./tasks
